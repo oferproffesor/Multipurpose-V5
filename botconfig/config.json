@@ -1,15 +1,15 @@
 {
-   "prefix": "//",
+   "prefix": "!",
    "ownerIDS": [
-      "961930771344523264"
+      "1127084757415641148"
    ],
    "bannermusic": "",
-   "memer_api": "xxxx",
+   "memer_api": "BocPQoK08R2",
    "status": {
       "text": "{membercount} Members in {guildcount} Servers",
-      "text2": "//help | dsc.gg/phv",
+      "text2": "!help | made by theoferlock",
       "type": "WATCHING",
-      "url": "https://www.twitch.tv/phv08"
+      "url": ""
    },
    "clientsettings": {
       "nodes": [
